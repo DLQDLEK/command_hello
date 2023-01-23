@@ -2,6 +2,7 @@
 //1: Local repository modification
 //2: GitHub modification
 //Add E
+//Check DS image added
 
 print("Hello World")
 print("Tell his World")
